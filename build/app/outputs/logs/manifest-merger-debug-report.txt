@@ -1,0 +1,194 @@
+-- Merging decision tree log ---
+application
+INJECTED from /home/brgsx/Documents/Boxe The Rua/therua_app/therua/android/app/src/main/AndroidManifest.xml:3:4-33:19
+MERGED from [androidx.window:window:1.0.0-beta04] /home/brgsx/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /home/brgsx/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.7.0] /home/brgsx/.gradle/caches/transforms-3/74ce2690f7529852b8321388684fcbb6/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /home/brgsx/.gradle/caches/transforms-3/74ce2690f7529852b8321388684fcbb6/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/brgsx/.gradle/caches/transforms-3/5abdc06e026f2f7b9b89c25dcd7a6d7e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/brgsx/.gradle/caches/transforms-3/5abdc06e026f2f7b9b89c25dcd7a6d7e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /home/brgsx/.gradle/caches/transforms-3/74ce2690f7529852b8321388684fcbb6/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:name
+		INJECTED from /home/brgsx/Documents/Boxe The Rua/therua_app/therua/android/app/src/main/AndroidManifest.xml
+manifest
+ADDED from /home/brgsx/Documents/Boxe The Rua/therua_app/therua/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /home/brgsx/Documents/Boxe The Rua/therua_app/therua/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /home/brgsx/Documents/Boxe The Rua/therua_app/therua/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /home/brgsx/Documents/Boxe The Rua/therua_app/therua/android/app/src/main/AndroidManifest.xml:1:1-34:12
+MERGED from /home/brgsx/Documents/Boxe The Rua/therua_app/therua/android/app/src/main/AndroidManifest.xml:1:1-34:12
+MERGED from [:just_audio] /home/brgsx/Documents/Boxe The Rua/therua_app/therua/build/just_audio/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:shared_preferences_android] /home/brgsx/Documents/Boxe The Rua/therua_app/therua/build/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:path_provider_android] /home/brgsx/Documents/Boxe The Rua/therua_app/therua/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:audio_session] /home/brgsx/Documents/Boxe The Rua/therua_app/therua/build/audio_session/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.multidex:multidex:2.0.1] /home/brgsx/.gradle/caches/transforms-3/27d6445aec3fd80f08088200c301c43a/transformed/multidex-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /home/brgsx/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] /home/brgsx/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.1] /home/brgsx/.gradle/caches/transforms-3/1eb6c6afabb28c675cc39dd71cb03f6e/transformed/jetified-exoplayer-dash-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.1] /home/brgsx/.gradle/caches/transforms-3/61c7a4ba02dec48531b828e296f6e18b/transformed/jetified-exoplayer-hls-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.1] /home/brgsx/.gradle/caches/transforms-3/e28c482bfa2563ff990640c92af5a657/transformed/jetified-exoplayer-smoothstreaming-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] /home/brgsx/.gradle/caches/transforms-3/eed6c775712772b7adb51f80912e1f44/transformed/jetified-exoplayer-core-2.18.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/brgsx/.gradle/caches/transforms-3/9354257804af8250f2ffb7c22e2892d5/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/brgsx/.gradle/caches/transforms-3/5b75d2e6479f13c5aed7d8001da507c0/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media2:media2-session:1.2.0] /home/brgsx/.gradle/caches/transforms-3/401e3fa5aba30c515133839c7436fb83/transformed/jetified-media2-session-1.2.0/AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.media2:media2-common:1.2.0] /home/brgsx/.gradle/caches/transforms-3/bc79aa2fbec4351d57620ed2eda3b807/transformed/jetified-media2-common-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/brgsx/.gradle/caches/transforms-3/f156363817d5f71529d60b6716392550/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/brgsx/.gradle/caches/transforms-3/cf24d35e50a727536c7357721dc007c5/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/brgsx/.gradle/caches/transforms-3/252fc848d5aa6e267df5e6907a023aed/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.4.1] /home/brgsx/.gradle/caches/transforms-3/5e776b2036c73d73db0c316ecc027c07/transformed/media-1.4.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview:1.0.0] /home/brgsx/.gradle/caches/transforms-3/f4c2d181f9683c57f8970b9ce7785060/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] /home/brgsx/.gradle/caches/transforms-3/74ce2690f7529852b8321388684fcbb6/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.1] /home/brgsx/.gradle/caches/transforms-3/6a847bbc57ccba8302f167f2efce7c1e/transformed/jetified-exoplayer-datasource-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.1] /home/brgsx/.gradle/caches/transforms-3/4bc434575cd11b2b76aceb9586621a6b/transformed/jetified-exoplayer-extractor-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.1] /home/brgsx/.gradle/caches/transforms-3/aab160cdfec09e574af16027daed3bf4/transformed/jetified-exoplayer-decoder-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.1] /home/brgsx/.gradle/caches/transforms-3/e4d1151e2d3aecc6584a92f876676836/transformed/jetified-exoplayer-database-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] /home/brgsx/.gradle/caches/transforms-3/b6f298680c9ee42c5d868b091347d3fc/transformed/jetified-exoplayer-common-2.18.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/brgsx/.gradle/caches/transforms-3/5abdc06e026f2f7b9b89c25dcd7a6d7e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/brgsx/.gradle/caches/transforms-3/76da31ad033c53187dd7271282d0f7d2/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/brgsx/.gradle/caches/transforms-3/282676124ae0776b5645a1cee909808d/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/brgsx/.gradle/caches/transforms-3/95578c0d327ed1d1ac84d08493ede1cf/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/brgsx/.gradle/caches/transforms-3/7f4e81502f72dd837dc1e0ddcbb11c26/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/brgsx/.gradle/caches/transforms-3/3343d1c6adfed9e861db7c3f7f2df83a/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/brgsx/.gradle/caches/transforms-3/56ea02d67edbb15aea212f39ccb5db78/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/brgsx/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/brgsx/Documents/Boxe The Rua/therua_app/therua/android/app/src/debug/AndroidManifest.xml:1:1-8:12
+INJECTED from /home/brgsx/Documents/Boxe The Rua/therua_app/therua/android/app/src/debug/AndroidManifest.xml:1:1-8:12
+INJECTED from /home/brgsx/Documents/Boxe The Rua/therua_app/therua/android/app/src/debug/AndroidManifest.xml:1:1-8:12
+	package
+		ADDED from /home/brgsx/Documents/Boxe The Rua/therua_app/therua/android/app/src/main/AndroidManifest.xml:2:5-33
+		INJECTED from /home/brgsx/Documents/Boxe The Rua/therua_app/therua/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/brgsx/Documents/Boxe The Rua/therua_app/therua/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/brgsx/Documents/Boxe The Rua/therua_app/therua/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/brgsx/Documents/Boxe The Rua/therua_app/therua/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		INJECTED from /home/brgsx/Documents/Boxe The Rua/therua_app/therua/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/brgsx/Documents/Boxe The Rua/therua_app/therua/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/brgsx/Documents/Boxe The Rua/therua_app/therua/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		INJECTED from /home/brgsx/Documents/Boxe The Rua/therua_app/therua/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/brgsx/Documents/Boxe The Rua/therua_app/therua/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from /home/brgsx/Documents/Boxe The Rua/therua_app/therua/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/brgsx/Documents/Boxe The Rua/therua_app/therua/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/brgsx/Documents/Boxe The Rua/therua_app/therua/android/app/src/main/AndroidManifest.xml
+MERGED from [:just_audio] /home/brgsx/Documents/Boxe The Rua/therua_app/therua/build/just_audio/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:just_audio] /home/brgsx/Documents/Boxe The Rua/therua_app/therua/build/just_audio/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:shared_preferences_android] /home/brgsx/Documents/Boxe The Rua/therua_app/therua/build/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:shared_preferences_android] /home/brgsx/Documents/Boxe The Rua/therua_app/therua/build/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] /home/brgsx/Documents/Boxe The Rua/therua_app/therua/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] /home/brgsx/Documents/Boxe The Rua/therua_app/therua/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:audio_session] /home/brgsx/Documents/Boxe The Rua/therua_app/therua/build/audio_session/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:audio_session] /home/brgsx/Documents/Boxe The Rua/therua_app/therua/build/audio_session/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.multidex:multidex:2.0.1] /home/brgsx/.gradle/caches/transforms-3/27d6445aec3fd80f08088200c301c43a/transformed/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] /home/brgsx/.gradle/caches/transforms-3/27d6445aec3fd80f08088200c301c43a/transformed/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [androidx.window:window-java:1.0.0-beta04] /home/brgsx/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /home/brgsx/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] /home/brgsx/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /home/brgsx/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.1] /home/brgsx/.gradle/caches/transforms-3/1eb6c6afabb28c675cc39dd71cb03f6e/transformed/jetified-exoplayer-dash-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.1] /home/brgsx/.gradle/caches/transforms-3/1eb6c6afabb28c675cc39dd71cb03f6e/transformed/jetified-exoplayer-dash-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.1] /home/brgsx/.gradle/caches/transforms-3/61c7a4ba02dec48531b828e296f6e18b/transformed/jetified-exoplayer-hls-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.1] /home/brgsx/.gradle/caches/transforms-3/61c7a4ba02dec48531b828e296f6e18b/transformed/jetified-exoplayer-hls-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.1] /home/brgsx/.gradle/caches/transforms-3/e28c482bfa2563ff990640c92af5a657/transformed/jetified-exoplayer-smoothstreaming-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.1] /home/brgsx/.gradle/caches/transforms-3/e28c482bfa2563ff990640c92af5a657/transformed/jetified-exoplayer-smoothstreaming-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] /home/brgsx/.gradle/caches/transforms-3/eed6c775712772b7adb51f80912e1f44/transformed/jetified-exoplayer-core-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] /home/brgsx/.gradle/caches/transforms-3/eed6c775712772b7adb51f80912e1f44/transformed/jetified-exoplayer-core-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/brgsx/.gradle/caches/transforms-3/9354257804af8250f2ffb7c22e2892d5/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/brgsx/.gradle/caches/transforms-3/9354257804af8250f2ffb7c22e2892d5/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/brgsx/.gradle/caches/transforms-3/5b75d2e6479f13c5aed7d8001da507c0/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/brgsx/.gradle/caches/transforms-3/5b75d2e6479f13c5aed7d8001da507c0/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media2:media2-session:1.2.0] /home/brgsx/.gradle/caches/transforms-3/401e3fa5aba30c515133839c7436fb83/transformed/jetified-media2-session-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media2:media2-session:1.2.0] /home/brgsx/.gradle/caches/transforms-3/401e3fa5aba30c515133839c7436fb83/transformed/jetified-media2-session-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media2:media2-common:1.2.0] /home/brgsx/.gradle/caches/transforms-3/bc79aa2fbec4351d57620ed2eda3b807/transformed/jetified-media2-common-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media2:media2-common:1.2.0] /home/brgsx/.gradle/caches/transforms-3/bc79aa2fbec4351d57620ed2eda3b807/transformed/jetified-media2-common-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/brgsx/.gradle/caches/transforms-3/f156363817d5f71529d60b6716392550/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/brgsx/.gradle/caches/transforms-3/f156363817d5f71529d60b6716392550/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/brgsx/.gradle/caches/transforms-3/cf24d35e50a727536c7357721dc007c5/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/brgsx/.gradle/caches/transforms-3/cf24d35e50a727536c7357721dc007c5/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/brgsx/.gradle/caches/transforms-3/252fc848d5aa6e267df5e6907a023aed/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/brgsx/.gradle/caches/transforms-3/252fc848d5aa6e267df5e6907a023aed/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.4.1] /home/brgsx/.gradle/caches/transforms-3/5e776b2036c73d73db0c316ecc027c07/transformed/media-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.4.1] /home/brgsx/.gradle/caches/transforms-3/5e776b2036c73d73db0c316ecc027c07/transformed/media-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/brgsx/.gradle/caches/transforms-3/f4c2d181f9683c57f8970b9ce7785060/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/brgsx/.gradle/caches/transforms-3/f4c2d181f9683c57f8970b9ce7785060/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] /home/brgsx/.gradle/caches/transforms-3/74ce2690f7529852b8321388684fcbb6/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /home/brgsx/.gradle/caches/transforms-3/74ce2690f7529852b8321388684fcbb6/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.1] /home/brgsx/.gradle/caches/transforms-3/6a847bbc57ccba8302f167f2efce7c1e/transformed/jetified-exoplayer-datasource-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.1] /home/brgsx/.gradle/caches/transforms-3/6a847bbc57ccba8302f167f2efce7c1e/transformed/jetified-exoplayer-datasource-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.1] /home/brgsx/.gradle/caches/transforms-3/4bc434575cd11b2b76aceb9586621a6b/transformed/jetified-exoplayer-extractor-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.1] /home/brgsx/.gradle/caches/transforms-3/4bc434575cd11b2b76aceb9586621a6b/transformed/jetified-exoplayer-extractor-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.1] /home/brgsx/.gradle/caches/transforms-3/aab160cdfec09e574af16027daed3bf4/transformed/jetified-exoplayer-decoder-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.1] /home/brgsx/.gradle/caches/transforms-3/aab160cdfec09e574af16027daed3bf4/transformed/jetified-exoplayer-decoder-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.1] /home/brgsx/.gradle/caches/transforms-3/e4d1151e2d3aecc6584a92f876676836/transformed/jetified-exoplayer-database-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.1] /home/brgsx/.gradle/caches/transforms-3/e4d1151e2d3aecc6584a92f876676836/transformed/jetified-exoplayer-database-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] /home/brgsx/.gradle/caches/transforms-3/b6f298680c9ee42c5d868b091347d3fc/transformed/jetified-exoplayer-common-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] /home/brgsx/.gradle/caches/transforms-3/b6f298680c9ee42c5d868b091347d3fc/transformed/jetified-exoplayer-common-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/brgsx/.gradle/caches/transforms-3/5abdc06e026f2f7b9b89c25dcd7a6d7e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/brgsx/.gradle/caches/transforms-3/5abdc06e026f2f7b9b89c25dcd7a6d7e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/brgsx/.gradle/caches/transforms-3/76da31ad033c53187dd7271282d0f7d2/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/brgsx/.gradle/caches/transforms-3/76da31ad033c53187dd7271282d0f7d2/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/brgsx/.gradle/caches/transforms-3/282676124ae0776b5645a1cee909808d/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/brgsx/.gradle/caches/transforms-3/282676124ae0776b5645a1cee909808d/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/brgsx/.gradle/caches/transforms-3/95578c0d327ed1d1ac84d08493ede1cf/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/brgsx/.gradle/caches/transforms-3/95578c0d327ed1d1ac84d08493ede1cf/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/brgsx/.gradle/caches/transforms-3/7f4e81502f72dd837dc1e0ddcbb11c26/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/brgsx/.gradle/caches/transforms-3/7f4e81502f72dd837dc1e0ddcbb11c26/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/brgsx/.gradle/caches/transforms-3/3343d1c6adfed9e861db7c3f7f2df83a/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/brgsx/.gradle/caches/transforms-3/3343d1c6adfed9e861db7c3f7f2df83a/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/brgsx/.gradle/caches/transforms-3/56ea02d67edbb15aea212f39ccb5db78/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/brgsx/.gradle/caches/transforms-3/56ea02d67edbb15aea212f39ccb5db78/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/brgsx/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/brgsx/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/brgsx/Documents/Boxe The Rua/therua_app/therua/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/brgsx/Documents/Boxe The Rua/therua_app/therua/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/brgsx/Documents/Boxe The Rua/therua_app/therua/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/brgsx/Documents/Boxe The Rua/therua_app/therua/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/brgsx/Documents/Boxe The Rua/therua_app/therua/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/brgsx/Documents/Boxe The Rua/therua_app/therua/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/brgsx/Documents/Boxe The Rua/therua_app/therua/android/app/src/debug/AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from /home/brgsx/Documents/Boxe The Rua/therua_app/therua/android/app/src/debug/AndroidManifest.xml:7:22-64
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /home/brgsx/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/brgsx/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/brgsx/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /home/brgsx/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/brgsx/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/brgsx/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.exoplayer:exoplayer-core:2.18.1] /home/brgsx/.gradle/caches/transforms-3/eed6c775712772b7adb51f80912e1f44/transformed/jetified-exoplayer-core-2.18.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] /home/brgsx/.gradle/caches/transforms-3/b6f298680c9ee42c5d868b091347d3fc/transformed/jetified-exoplayer-common-2.18.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] /home/brgsx/.gradle/caches/transforms-3/b6f298680c9ee42c5d868b091347d3fc/transformed/jetified-exoplayer-common-2.18.1/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.exoplayer:exoplayer-core:2.18.1] /home/brgsx/.gradle/caches/transforms-3/eed6c775712772b7adb51f80912e1f44/transformed/jetified-exoplayer-core-2.18.1/AndroidManifest.xml:24:22-76
+queries
+ADDED from [androidx.media2:media2-session:1.2.0] /home/brgsx/.gradle/caches/transforms-3/401e3fa5aba30c515133839c7436fb83/transformed/jetified-media2-session-1.2.0/AndroidManifest.xml:24:5-34:15
+MERGED from [androidx.media:media:1.4.1] /home/brgsx/.gradle/caches/transforms-3/5e776b2036c73d73db0c316ecc027c07/transformed/media-1.4.1/AndroidManifest.xml:24:5-28:15
+MERGED from [androidx.media:media:1.4.1] /home/brgsx/.gradle/caches/transforms-3/5e776b2036c73d73db0c316ecc027c07/transformed/media-1.4.1/AndroidManifest.xml:24:5-28:15
+intent#action:name:android.media.browse.MediaBrowserService
+ADDED from [androidx.media2:media2-session:1.2.0] /home/brgsx/.gradle/caches/transforms-3/401e3fa5aba30c515133839c7436fb83/transformed/jetified-media2-session-1.2.0/AndroidManifest.xml:25:9-27:18
+action#android.media.browse.MediaBrowserService
+ADDED from [androidx.media2:media2-session:1.2.0] /home/brgsx/.gradle/caches/transforms-3/401e3fa5aba30c515133839c7436fb83/transformed/jetified-media2-session-1.2.0/AndroidManifest.xml:26:13-79
+	android:name
+		ADDED from [androidx.media2:media2-session:1.2.0] /home/brgsx/.gradle/caches/transforms-3/401e3fa5aba30c515133839c7436fb83/transformed/jetified-media2-session-1.2.0/AndroidManifest.xml:26:21-76
+intent#action:name:androidx.media2.session.MediaSessionService
+ADDED from [androidx.media2:media2-session:1.2.0] /home/brgsx/.gradle/caches/transforms-3/401e3fa5aba30c515133839c7436fb83/transformed/jetified-media2-session-1.2.0/AndroidManifest.xml:28:9-30:18
+action#androidx.media2.session.MediaSessionService
+ADDED from [androidx.media2:media2-session:1.2.0] /home/brgsx/.gradle/caches/transforms-3/401e3fa5aba30c515133839c7436fb83/transformed/jetified-media2-session-1.2.0/AndroidManifest.xml:29:13-82
+	android:name
+		ADDED from [androidx.media2:media2-session:1.2.0] /home/brgsx/.gradle/caches/transforms-3/401e3fa5aba30c515133839c7436fb83/transformed/jetified-media2-session-1.2.0/AndroidManifest.xml:29:21-79
+intent#action:name:androidx.media2.session.MediaLibraryService
+ADDED from [androidx.media2:media2-session:1.2.0] /home/brgsx/.gradle/caches/transforms-3/401e3fa5aba30c515133839c7436fb83/transformed/jetified-media2-session-1.2.0/AndroidManifest.xml:31:9-33:18
+action#androidx.media2.session.MediaLibraryService
+ADDED from [androidx.media2:media2-session:1.2.0] /home/brgsx/.gradle/caches/transforms-3/401e3fa5aba30c515133839c7436fb83/transformed/jetified-media2-session-1.2.0/AndroidManifest.xml:32:13-82
+	android:name
+		ADDED from [androidx.media2:media2-session:1.2.0] /home/brgsx/.gradle/caches/transforms-3/401e3fa5aba30c515133839c7436fb83/transformed/jetified-media2-session-1.2.0/AndroidManifest.xml:32:21-79

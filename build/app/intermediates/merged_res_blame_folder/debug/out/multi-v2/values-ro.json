@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.therua.app-mergeDebugResources-14:/values-ro/values-ro.xml",
+            "map": [
+                {
+                    "source": "/home/brgsx/.gradle/caches/transforms-3/eed6c775712772b7adb51f80912e1f44/transformed/jetified-exoplayer-core-2.18.1/res/values-ro/values-ro.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,136,200,265,337,415,495,585,678",
+                        "endColumns": "80,63,64,71,77,79,89,92,73",
+                        "endOffsets": "131,195,260,332,410,490,580,673,747"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "159,240,304,369,441,519,599,689,782",
+                        "endColumns": "80,63,64,71,77,79,89,92,73",
+                        "endOffsets": "235,299,364,436,514,594,684,777,851"
+                    }
+                },
+                {
+                    "source": "/home/brgsx/.gradle/caches/transforms-3/74ce2690f7529852b8321388684fcbb6/transformed/core-1.7.0/res/values-ro/values-ro.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "1324",
+                        "endColumns": "100",
+                        "endOffsets": "1420"
+                    }
+                },
+                {
+                    "source": "/home/brgsx/.gradle/caches/transforms-3/401e3fa5aba30c515133839c7436fb83/transformed/jetified-media2-session-1.2.0/res/values-ro/values-ro.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,159,262,358,490",
+                        "endColumns": "103,102,95,131,136",
+                        "endOffsets": "154,257,353,485,622"
+                    },
+                    "to": {
+                        "startLines": "2,12,13,14,15",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,856,959,1055,1187",
+                        "endColumns": "103,102,95,131,136",
+                        "endOffsets": "154,954,1050,1182,1319"
+                    }
+                }
+            ]
+        }
+    ]
+}

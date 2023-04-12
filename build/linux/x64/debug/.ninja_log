@@ -1,0 +1,28 @@
+# ninja log v5
+0	14842	0	/home/brgsx/Documents/Boxe The Rua/therua_app/therua/linux/flutter/ephemeral/libflutter_linux_gtk.so	94f004bb74522660
+0	14842	0	/home/brgsx/Documents/Boxe The Rua/therua_app/therua/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	94f004bb74522660
+0	14842	0	/home/brgsx/Documents/Boxe The Rua/therua_app/therua/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	94f004bb74522660
+0	14842	0	/home/brgsx/Documents/Boxe The Rua/therua_app/therua/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	94f004bb74522660
+0	14842	0	/home/brgsx/Documents/Boxe The Rua/therua_app/therua/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	94f004bb74522660
+0	14842	0	/home/brgsx/Documents/Boxe The Rua/therua_app/therua/linux/flutter/ephemeral/flutter_linux/fl_engine.h	94f004bb74522660
+0	14842	0	/home/brgsx/Documents/Boxe The Rua/therua_app/therua/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	94f004bb74522660
+0	14842	0	/home/brgsx/Documents/Boxe The Rua/therua_app/therua/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	94f004bb74522660
+0	14842	0	/home/brgsx/Documents/Boxe The Rua/therua_app/therua/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	94f004bb74522660
+0	14842	0	/home/brgsx/Documents/Boxe The Rua/therua_app/therua/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	94f004bb74522660
+0	14842	0	/home/brgsx/Documents/Boxe The Rua/therua_app/therua/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	94f004bb74522660
+0	14842	0	/home/brgsx/Documents/Boxe The Rua/therua_app/therua/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	94f004bb74522660
+0	14842	0	/home/brgsx/Documents/Boxe The Rua/therua_app/therua/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	94f004bb74522660
+0	14842	0	/home/brgsx/Documents/Boxe The Rua/therua_app/therua/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	94f004bb74522660
+0	14842	0	/home/brgsx/Documents/Boxe The Rua/therua_app/therua/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	94f004bb74522660
+0	14842	0	/home/brgsx/Documents/Boxe The Rua/therua_app/therua/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	94f004bb74522660
+0	14842	0	/home/brgsx/Documents/Boxe The Rua/therua_app/therua/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	94f004bb74522660
+0	14842	0	/home/brgsx/Documents/Boxe The Rua/therua_app/therua/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	94f004bb74522660
+0	14842	0	/home/brgsx/Documents/Boxe The Rua/therua_app/therua/linux/flutter/ephemeral/flutter_linux/fl_value.h	94f004bb74522660
+0	14842	0	/home/brgsx/Documents/Boxe The Rua/therua_app/therua/linux/flutter/ephemeral/flutter_linux/fl_view.h	94f004bb74522660
+0	14842	0	/home/brgsx/Documents/Boxe The Rua/therua_app/therua/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	94f004bb74522660
+0	14842	0	flutter/_phony_	94f004bb74522660
+14843	15298	1681324182358355568	CMakeFiles/therua.dir/flutter/generated_plugin_registrant.cc.o	bb401a291d71794
+14842	15301	1681324182366355416	CMakeFiles/therua.dir/main.cc.o	3734536646b4487d
+14843	15402	1681324182474353368	CMakeFiles/therua.dir/my_application.cc.o	3b81fb1219dc9e68
+15402	15538	1681324182614350713	intermediates_do_not_run/therua	7f9d866047243b19
+15538	15688	0	CMakeFiles/install.util	1b306a6ecbe044ca

@@ -1,0 +1,21 @@
+com.example.therua.app-jetified-window-java-1.0.0-beta04-0 /home/brgsx/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.therua.app-jetified-media2-session-1.2.0-1 /home/brgsx/.gradle/caches/transforms-3/401e3fa5aba30c515133839c7436fb83/transformed/jetified-media2-session-1.2.0/res
+com.example.therua.app-media-1.4.1-2 /home/brgsx/.gradle/caches/transforms-3/5e776b2036c73d73db0c316ecc027c07/transformed/media-1.4.1/res
+com.example.therua.app-core-1.7.0-3 /home/brgsx/.gradle/caches/transforms-3/74ce2690f7529852b8321388684fcbb6/transformed/core-1.7.0/res
+com.example.therua.app-lifecycle-runtime-2.3.1-4 /home/brgsx/.gradle/caches/transforms-3/76da31ad033c53187dd7271282d0f7d2/transformed/lifecycle-runtime-2.3.1/res
+com.example.therua.app-jetified-annotation-experimental-1.1.0-5 /home/brgsx/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.therua.app-jetified-media2-common-1.2.0-6 /home/brgsx/.gradle/caches/transforms-3/bc79aa2fbec4351d57620ed2eda3b807/transformed/jetified-media2-common-1.2.0/res
+com.example.therua.app-jetified-window-1.0.0-beta04-7 /home/brgsx/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/res
+com.example.therua.app-jetified-exoplayer-core-2.18.1-8 /home/brgsx/.gradle/caches/transforms-3/eed6c775712772b7adb51f80912e1f44/transformed/jetified-exoplayer-core-2.18.1/res
+com.example.therua.app-debug-9 /home/brgsx/Documents/Boxe The Rua/therua_app/therua/android/app/src/debug/res
+com.example.therua.app-main-10 /home/brgsx/Documents/Boxe The Rua/therua_app/therua/android/app/src/main/res
+com.example.therua.app-pngs-11 /home/brgsx/Documents/Boxe The Rua/therua_app/therua/build/app/generated/res/pngs/debug
+com.example.therua.app-resValues-12 /home/brgsx/Documents/Boxe The Rua/therua_app/therua/build/app/generated/res/resValues/debug
+com.example.therua.app-rs-13 /home/brgsx/Documents/Boxe The Rua/therua_app/therua/build/app/generated/res/rs/debug
+com.example.therua.app-mergeDebugResources-14 /home/brgsx/Documents/Boxe The Rua/therua_app/therua/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.therua.app-mergeDebugResources-15 /home/brgsx/Documents/Boxe The Rua/therua_app/therua/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.therua.app-merged_res-16 /home/brgsx/Documents/Boxe The Rua/therua_app/therua/build/app/intermediates/merged_res/debug
+com.example.therua.app-packaged_res-17 /home/brgsx/Documents/Boxe The Rua/therua_app/therua/build/audio_session/intermediates/packaged_res/debug
+com.example.therua.app-packaged_res-18 /home/brgsx/Documents/Boxe The Rua/therua_app/therua/build/just_audio/intermediates/packaged_res/debug
+com.example.therua.app-packaged_res-19 /home/brgsx/Documents/Boxe The Rua/therua_app/therua/build/path_provider_android/intermediates/packaged_res/debug
+com.example.therua.app-packaged_res-20 /home/brgsx/Documents/Boxe The Rua/therua_app/therua/build/shared_preferences_android/intermediates/packaged_res/debug
